@@ -7,7 +7,7 @@
         <script>window.Laravel = { csrfToken: '{{csrf_token()}}' }</script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
         <title>D'Hungry Buddy | CMS</title>
-        {{-- <link rel="icon" type="image/ico" href="{{ asset('assets/logo/ap-logo.png') }}" /> --}}
+        <link rel="icon" type="image/png" href="{{ asset('site-template/img/favicon.ico') }}">
         @include('cms/partials/css_files')
 
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">

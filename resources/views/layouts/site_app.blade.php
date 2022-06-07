@@ -25,7 +25,7 @@
         <meta name="author" content="">
         <title>D'Hungry Buddy - Home</title>
         <!-- Favicon Icon -->
-        {{-- <link rel="icon" type="image/png" href="img/favicon.png"> --}}
+        <link rel="icon" type="image/png" href="{{ asset('site-template/img/favicon.ico') }}">
         <!-- Bootstrap core CSS -->
         <link href="{{ asset('site-template/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
         <!-- Material Design Icons -->
