@@ -13,3 +13,7 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/public/uploads/members/
+/public/uploads/products/
+/public/uploads/sliders/
+/public/uploads/users/
