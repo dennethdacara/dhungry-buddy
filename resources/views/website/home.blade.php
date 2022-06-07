@@ -45,7 +45,7 @@
                         <h6>{{ $product->excerpt }}</h6>
                      </div>
                      <div class="product-footer">
-                        @if(Auth::check())
+                        @if(Auth::check() && Auth::user()->role_id <> 1)
                            <a href="{{ route('cart.add_to_cart', ['product_id' => $product->id ]) }}" 
                               class="btn btn-secondary btn-sm float-right">
                               <i class="mdi mdi-cart-outline"></i> 
