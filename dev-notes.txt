@@ -1,0 +1,18 @@
+# Import the dhungry_buddy.sql file to dhungry_buddy database in sqlyog or phpmyadmin
+
+# Run the following:
+$ composer install
+$ php artisan key:generate
+
+# User Accounts:
+
+==ADMIN==
+email: site.admin@gmail.com
+password: password 
+
+==CUSTOMER==
+email: customer1@gmail.com
+password: password
+
+email: juan.delacruz@gmail.com
+password: password

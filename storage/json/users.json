@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "role_id": 1,
+        "firstname": "Site",
+        "middlename": "",
+        "lastname": "Admin",
+        "thumbnail": "",
+        "email": "site.admin@gmail.com",
+        "username": "site.admin",
+        "password": "password"
+    },
+    {
+        "id": 2,
+        "role_id": 2,
+        "firstname": "Customer",
+        "middlename": "",
+        "lastname": "1",
+        "thumbnail": "",
+        "email": "customer1@gmail.com",
+        "username": "customer1",
+        "password": "password"
+    }
+]

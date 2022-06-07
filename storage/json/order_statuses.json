@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Pending"
+    },
+    {
+        "id": 2,
+        "name": "Order Accepted"
+    },
+    {
+        "id": 3,
+        "name": "Preparing"
+    },
+    {
+        "id": 4,
+        "name": "For Delivery"
+    },
+    {
+        "id": 5,
+        "name": "Delivered"
+    },
+    {
+        "id": 6,
+        "name": "Cancelled"
+    }
+]
