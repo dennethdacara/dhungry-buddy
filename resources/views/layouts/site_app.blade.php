@@ -422,7 +422,7 @@
                         </div>
                      `);
                   } else {
-                     window.location.href = '/dashboard';
+                     window.location.href = '{{ route('redirect') }}';
                   }
                },
                error: function(err) {
